@@ -20,7 +20,7 @@
       font-family: Arial, sans-serif;
     }
     h1 {
-      font-size: 2rem;
+      font-size: 3rem;
       color: #333;
       animation: blink 1s infinite; /* nhấp nháy mỗi 1 giây */
     }
