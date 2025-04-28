@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta name="google-site-verification" content="AUSsFethPERa13ZSx3quBLi9cAgEXBwlE6_JC0u9bCA" />
   <meta charset="UTF-8">
   <title>My Website</title>
   <meta name="description" content="Website cá nhân miễn phí trên GitHub Pages.">
+  
+  <!-- Google Search Console Verification -->
+  <meta name="google-site-verification" content="AUSsFethPERa13ZSx3quBLi9cAgEXBwlE6_JC0u9bCA" />
 </head>
 <body>
-  <h1>Có cái nịt Seach cái gì Cook!</h1>
+  <h1>Chào mừng bạn đến với website của tôi!</h1>
+  <p>Đây là trang web mẫu để xác minh Google Search Console.</p>
 </body>
 </html>
