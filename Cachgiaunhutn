@@ -2,14 +2,30 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>My Website</title>
-  <meta name="description" content="Website cá nhân miễn phí trên GitHub Pages.">
-  
+  <title>Có cái nịt seach qq</title>
+  <meta name="description" content="Website cá nhân xác minh Google Search Console.">
+
   <!-- Google Search Console Verification -->
   <meta name="google-site-verification" content="AUSsFethPERa13ZSx3quBLi9cAgEXBwlE6_JC0u9bCA" />
+
+  <style>
+    /* CSS căn giữa chữ */
+    body {
+      height: 100vh;
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: #f0f0f0;
+      font-family: Arial, sans-serif;
+    }
+    h1 {
+      font-size: 2rem;
+      color: #333;
+    }
+  </style>
 </head>
 <body>
-  <h1>Chào mừng bạn đến với website của tôi!</h1>
-  <p>Đây là trang web mẫu để xác minh Google Search Console.</p>
+  <h1>Có cái nịt seach qq</h1>
 </body>
 </html>
